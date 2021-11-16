@@ -14,17 +14,13 @@ Education
 * B.S. in Electrical Engineering, National Tsing Hua University, 2017
 * Ph.D in Electrical Engineering, National Tsing Hua University, 2022 (expected)
 
-Work experience
+Project experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Emotion AI: 
   
 Skills
 ======
