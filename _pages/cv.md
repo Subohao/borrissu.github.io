@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, National Tsing Hua University, 2017
+* Ph.D in Electrical Engineering, National Tsing Hua University, 2022 (expected)
 
 Work experience
 ======
@@ -29,12 +28,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning - Pytorch, Kaldi AST Tool, Espnet End2End ASR Tool, Keras, Tensorflow
+* Programing - Python, C/C++, Shell, Matlab
+* System-Related - Docker, GCP, AWS
+* Language - Native in Mandarin, Advanced in English
 
 Publications
 ======
