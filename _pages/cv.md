@@ -24,13 +24,21 @@ Research Project experience
 
 Industry Project experience
 ======
-* March. 2019: Research & Development
+* March. 2019 - present: Research & Development
   * E.SUN BANK (Taiwan)
   * Duties included: Automated Video Interview, Speech to Text (STT), and Text to Speech (TTS) projects
   * Supervisor: Chi-Chun Lee
+* Jan. 2020 - present: Research & Development
+  * Sin-Dong BIOTECH (Taiwan)
+  * Duties included: Agent and Customer Conversation Analysis for Call Center
+  * Supervisor: Chi-Chun Lee
+* Jan. 2020 - present: Research & Development
+  * Qualcomm (Taiwan)
+  * Duties included: Machine Learning on Edge Computing Platforms
+  * Supervisor: Chi-Chun Lee
 * Sep. 2017 - 2020: Research & Development
-  * E.SUN BANK (Taiwan)
-  * Duties included: Automated Video Interview, Speech to Text (STT), and Text to Speech (TTS) projects
+  * Gamania (Taiwan)
+  * Duties included: Group Performance Prediction through Group Interaction & Personality for Human Resource (HR)
   * Supervisor: Chi-Chun Lee
   
 Skills
