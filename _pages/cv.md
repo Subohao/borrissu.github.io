@@ -14,7 +14,7 @@ Education
 * B.S. in Electrical Engineering, National Tsing Hua University, 2017
 * Ph.D in Electrical Engineering, National Tsing Hua University, 2022 (expected)
 
-Project experience
+Research Project experience
 ======
 * Summer 2015: Research Assistant
   * Github University
