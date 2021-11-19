@@ -16,11 +16,18 @@ Education
 
 Research Project experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-* Emotion AI: 
+* Jan. 2021 - present: Emotion AI 
+  * National Tsing Hua University, BIIC lab
+  * Duties included: Chinese MSP-Podcast Database Collection (collaborate with U.S. MSP Lab, Dallas)
+  * Supervisor: Chi-Chun Lee, Carlos Busso
+* 2020 - present: Cloud-based AI service
+  * National Tsing Hua University, BIIC lab
+  * Duties included: ASR model developer – Website of Emotion AI Life [[Link](https://eal.tw/)]
+  * Supervisor: Chi-Chun Lee
+* 2018: Emotion AI
+  * National Tsing Hua University, BIIC lab
+  * Duties included: Personalized Emotion Sensing through Conversation (FutureTech 2018, Taiwan) [[Link](https://www.futuretech.org.tw/futuretech/index.php?action=brands_detail&br_uid=107&web_lang=en-us)]
+  * Supervisor: Chi-Chun Lee
 
 Industry Project experience
 ======
