@@ -2,9 +2,9 @@
 title: "Artificial Intelligence Innovation and Entrepreneurship"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-AI-2
+permalink: /teaching/2019-spring-AI-3
 venue: "National Tsing Hua University, Electrical Engineering Department"
-date: 2019/01-2019/07
+date: 2019-01
 location: "Hsinchu, Taiwan"
 ---
 
