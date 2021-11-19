@@ -21,6 +21,17 @@ Research Project experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 * Emotion AI: 
+
+Industry Project experience
+======
+* March. 2019: Research & Development
+  * E.SUN BANK (Taiwan)
+  * Duties included: Automated Video Interview, Speech to Text (STT), and Text to Speech (TTS) projects
+  * Supervisor: Chi-Chun Lee
+* Sep. 2017 - 2020: Research & Development
+  * E.SUN BANK (Taiwan)
+  * Duties included: Automated Video Interview, Speech to Text (STT), and Text to Speech (TTS) projects
+  * Supervisor: Chi-Chun Lee
   
 Skills
 ======
