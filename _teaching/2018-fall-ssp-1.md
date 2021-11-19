@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-ssp-1
 venue: "National Tsing Hua University, Electrical Engineering Department"
-date: 2018-09
+date: 2018-09-15
 location: "Hsinchu, Taiwan"
 ---
 
