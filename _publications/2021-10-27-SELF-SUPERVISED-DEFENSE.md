@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-10-27-SELF-SUPERVISED-DEFENSE
 excerpt: 'In this paper, we proposed a self-supervised augmentation defense (SSAD) model that can defend against different adversarial attacks without knowing the types beforehand.'
 date: 2021-10-27
-venue: 'IEEE ICASSP2022'
+venue: 'IEEE ICASSP'
 paperurl: ''
 citation: 'Under Review.&quot; <i>IEEE ICASSP2022.</i>. 1(1).'
 ---
