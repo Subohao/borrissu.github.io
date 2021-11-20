@@ -12,4 +12,4 @@ In this paper, we proposed a self-supervised augmentation defense (SSAD) model t
 
 <!-- [Download paper here](https://ieeexplore.ieee.org/abstract/document/9591505) -->
 
-Recommended citation: Under Review. "SELF-SUPERVISED AUGMENTATION DEFENSE MODEL AGAINST ADVERSARIAL ATTACKS FOR SPEECH EMOTION RECOGNITION" <i>IEEE ICASSP2022.</i>. 1(1).
+Recommended citation: Under Review. "SELF-SUPERVISED AUGMENTATION DEFENSE MODEL AGAINST ADVERSARIAL ATTACKS FOR SPEECH EMOTION RECOGNITION" <i>IEEE ICASSP2022</i>. 1(1).
