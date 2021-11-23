@@ -85,7 +85,7 @@ author:
   bio              : "PhD. Student major in Electrical Engineering and Computer Science of National Tsing-Hua University"
   location         : "Hsinchu, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=b35P7lAAAAAJ&hl=zh-TW&authuser=2"
   email            : "borrissu@gapp.nthu.edu.tw"
   researchgate     : "https://www.researchgate.net/profile/Bo-Su-17" # example: "https://www.researchgate.net/profile/yourprofile"
