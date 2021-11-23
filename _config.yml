@@ -197,11 +197,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false #true
+      read_time: false #true
+      comments: false #true
+      share: false #true
+      related: false #true
   # _pages
   - scope:
       path: ""
@@ -233,17 +233,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false #true
+      share: false #true
+      comment: false #true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false #true
+      share: false #true
 
 # Sass/SCSS
 sass:
