@@ -12,7 +12,25 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, National Tsing Hua University, 2017
-* Ph.D in Electrical Engineering, National Tsing Hua University, 2022 (expected)
+* Ph.D in Electrical Engineering, National Tsing Hua University, 2023
+
+Work experience
+======
+* May 2024 ‑ March 2025
+  * National Tsing‑Hua University, BIIC lab
+  * Postdoctoral Researcher
+  * Research topics include: Audio Signal Processing, Diffusion‑based emotional TTS for robust SER, LLM‑based SER
+* Aug. 2023 - Nov. 2023
+  * Amazon Web Service (AWS)
+  * Applied Scientist
+  * Audio Signal Processing and E2E ASR model development
+  * Fairness issue across accents: reduce a relative 3% WER gap between different accents in English of an E2E ASR model.
+* Jun. 2022 - Sep. 2022
+  * Disney Research (LA)
+  * Research Associate
+  * ASR Metric Understanding by Graph‑based Model Development.
+  * Designing the heuristic data collection process in website.
+  * Build a Graph‑based model to recognize the acoustic‑related metrics while considering the ambient sound condition.
 
 Research Project experience
 ======
